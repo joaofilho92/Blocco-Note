@@ -1,0 +1,62 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 441
+  ClientWidth = 624
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  Menu = MainMenu1
+  Position = poScreenCenter
+  TextHeight = 15
+  object Memo1: TMemo
+    Left = 0
+    Top = 0
+    Width = 624
+    Height = 441
+    Align = alClient
+    TabOrder = 0
+  end
+  object MainMenu1: TMainMenu
+    Left = 272
+    Top = 160
+    object Arquivo1: TMenuItem
+      Caption = 'Arquivo'
+      object Abrir1: TMenuItem
+        Caption = 'Abrir'
+        OnClick = Abrir1Click
+      end
+      object SalvarComo1: TMenuItem
+        Caption = 'Salvar Como'
+        OnClick = SalvarComo1Click
+      end
+      object SalvarComo2: TMenuItem
+        Caption = 'Salvar'
+        OnClick = SalvarComo2Click
+      end
+      object Fechar: TMenuItem
+        Caption = 'Fechar'
+        OnClick = FecharClick
+      end
+    end
+    object Sobre1: TMenuItem
+      Caption = 'Sobre'
+    end
+  end
+  object OpenDialog1: TOpenDialog
+    DefaultExt = '*.txt'
+    Filter = 'TXT|*.txt'
+    Left = 392
+    Top = 160
+  end
+  object SaveDialog1: TSaveDialog
+    DefaultExt = '*.txt'
+    Filter = 'TXT|*.txt'
+    Left = 392
+    Top = 240
+  end
+end
