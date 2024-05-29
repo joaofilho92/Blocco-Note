@@ -50,7 +50,7 @@ end;
 procedure TForm1.SalvarComo1Click(Sender: TObject);
 begin
   if SaveDialog1.Execute then
-    Memo1.Lines.SaveToFile(OpenDialog1.FileName);
+    Memo1.Lines.SaveToFile(SaveDialog1.FileName);
 end;
 
 procedure TForm1.SalvarComo2Click(Sender: TObject);
