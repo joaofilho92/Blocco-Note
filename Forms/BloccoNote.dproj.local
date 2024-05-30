@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2024/05/27 22:29:38.000.844,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
-    <Transaction>2024/05/29 20:34:50.387,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/05/29 20:35:29.895,D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\uForm.Principale.dfm=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2024/05/29 20:35:29.895,D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\uForm.Principale.pas=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/05/29 20:35:37.798,D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\BloccoNote.dproj=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/29 20:34:50.000.387,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/29 20:35:29.000.895,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\uForm.Principale.dfm</Transaction>
+    <Transaction>2024/05/29 20:35:29.000.895,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\uForm.Principale.pas</Transaction>
+    <Transaction>2024/05/29 20:35:37.000.798,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Dev\Projetos\Projetos Delphi\BlocoNote\Forms\BloccoNote.dproj</Transaction>
   </Transactions>
 </BorlandProject>
